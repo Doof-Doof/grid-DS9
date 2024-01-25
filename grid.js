@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'Images/Multimedia.png',
         'Images/Books.png',
         'Images/Cycling.png',
-        'Images/Café.png'
+        'Images/Café.PNG'
         // Add more image URLs as needed
     ];
 
