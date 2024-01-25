@@ -4,9 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Replace these image URLs with your own
     const images = [
-        'Images/Books.png',
-        'Images/Café.png',
-        'Images/Cycling.png',
         'Images/Multimedia.png',
         // Add more image URLs as needed
     ];
