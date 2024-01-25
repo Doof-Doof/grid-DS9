@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Replace these image URLs with your own
     const images = [
-        '/Users/Studio/Desktop/IE/Architecture/Design Studio/Design Studio 9/Kick-off exercises/Code lol/Images/Books.png',
-        '/Users/Studio/Desktop/IE/Architecture/Design Studio/Design Studio 9/Kick-off exercises/Code lol/Images/Café.png',
-        '/Users/Studio/Desktop/IE/Architecture/Design Studio/Design Studio 9/Kick-off exercises/Code lol/Images/Cycling.png',
-        '/Users/Studio/Desktop/IE/Architecture/Design Studio/Design Studio 9/Kick-off exercises/Code lol/Images/Multimedia.png',
+        'Books.png',
+        'Café.png',
+        'Cycling.png',
+        'Images/Multimedia.png',
         // Add more image URLs as needed
     ];
 
